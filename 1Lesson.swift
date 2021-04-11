@@ -1,5 +1,5 @@
 //
-//  main.swift
+//  1Lesson.swift
 //  L1_Гурьянова Виктория
 //
 //  Created by Victoria Guryanova on 23.03.2021.
